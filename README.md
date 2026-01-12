@@ -87,7 +87,7 @@ Python-powered chatbots built for **customer support and automation**.
 
 * 📧 Email: **[fasinujoshua0@gmail.com](mailto:fasinujoshua0@gmail.com)**
 * 📞 Phone / WhatsApp: **+2348026847947**
-* 🌐 Portfolio: **[https://joshdigitalconcept.carrd.co](https://joshuaf.vercel.app/)**
+* 🌐 Portfolio: **[https://joshuaf.vercel.app](https://joshuaf.vercel.app/)**
 
 ---
 
